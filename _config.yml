@@ -1,2 +1,4 @@
 name: Aashish Panchal, Sr. Engineering Manager
-	markdown: kramdown
+markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
