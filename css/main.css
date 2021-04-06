@@ -10,6 +10,18 @@ p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
     margin-top: 16px;
     margin-bottom: 0px;
 }
+p5 {
+    text-align: left;
+    padding-right: 78px;
+    margin-top: 4px;
+    margin-bottom: 0px;
+}
+
+.ft1 {
+    font: 13px 'Arial Unicode MS';
+        line-height: normal;
+    line-height: 18px;
+}
 .ft3 {
     font: bold 19px 'Arial';
         line-height: normal;
