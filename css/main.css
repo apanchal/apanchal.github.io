@@ -5,7 +5,7 @@ a:hover { text-decoration: underline; }
 
 p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
 
-hr.new1 { border-top: 1px solid blue; }
+hr.new1 { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
 .p0{text-align: left;margin-top: 0px;margin-bottom: 0px;}
 .p1{text-align: left;margin-top: 2px;margin-bottom: 0px;}
